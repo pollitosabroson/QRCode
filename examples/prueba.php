@@ -1,0 +1,1 @@
+<img src="http://chart.apis.google.com/chart?cht=qr&amp;chs=150x150&amp;chl=Cristian Fabián Muñoz Flores Blink 182 RFC:123456789&amp;chld=H|0">
